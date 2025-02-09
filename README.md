@@ -22,7 +22,7 @@ At the end of all the modules you will be able to get a job in different cyberse
 
 <H2><div align="center"> -Modules- </div></H2>
 
-<H3><i><a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-1-1NT40DUC710N" hover>Module 01 - ***INTRODUCTION TO THE PLATFORM AND CYBERSECURITY.</a></H3></i>
+<H3><i><a href="https://github.com/Croll1312/C0M91373-H4CK1N6-C0U453-4ND-04-6U1D3/blob/main/M0DU13-1-1NT40DUC710N.md" hover>Module 01 - ***INTRODUCTION TO THE PLATFORM AND CYBERSECURITY.</a></H3></i>
 
 In this first module, the platform that we will use throughout the course/guide is presented (with the exception of the final practical works) which is TryHackMe, and absolutely ALL the laboratories used are free (please, if any laboratory was eliminated or It has passed to payment, leave me a comment and I will solve it as soon as possible).
 
